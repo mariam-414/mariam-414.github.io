@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
+
+
+
+
+body {
+   max-width: 825px;
+   margin: auto;
+   background-color: black;
+   color: white; 
+
+ 
+}
+
+H1, h2, h3 {
+  Display: block;
+  Text-align: center;
+  width: 500px;
+ Margin: auto;
+  border: 15px solid purple;
+  padding: 10px;
+  margin: 20px;
+ font-family: "Audiowide", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+P {
+font-family: "TikTok Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100;
+}
+
+
